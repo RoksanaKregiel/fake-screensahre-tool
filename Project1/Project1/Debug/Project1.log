@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Project1.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+  menu.cpp
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\kremuwki213769\Desktop\Drippy ScreenShare Tool\src\Project1\Debug\Drippy SS Tool.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  Project1.vcxproj -> C:\Users\kremuwki213769\Desktop\Drippy ScreenShare Tool\src\Project1\Debug\Drippy SS Tool.exe
