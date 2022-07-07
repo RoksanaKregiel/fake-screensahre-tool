@@ -1,4 +1,4 @@
-# fake-screensahre-tool
+# fake-minecraft-screensahre-tool
 Fake ss tool that is a autoclicker.
 
 #how to use
