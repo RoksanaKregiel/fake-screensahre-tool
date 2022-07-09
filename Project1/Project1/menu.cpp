@@ -20,7 +20,7 @@ void menu() {
 	struct tm newtime;
 	__time32_t aclock;
 	HWND hwndCmd = GetConsoleWindow();
-	if (hwndCmd != NULL) { MoveWindow(hwndCmd, 800, 850,8700, 850, TRUE); }
+	if (hwndCmd != NULL) { MoveWindow(hwndCmd, 700, 750,700, 750, TRUE); }
 	SetWindowLong(hwndCmd, GWL_STYLE, GetWindowLong(hwndCmd, GWL_STYLE) & ~WS_MAXIMIZEBOX & ~WS_SIZEBOX);
 	::SetWindowPos(hwndCmd, HWND_TOPMOST, 0, 0, 0, 0, SWP_DRAWFRAME | SWP_NOMOVE | SWP_NOSIZE | SWP_SHOWWINDOW);
 	SetConsoleTitleA("Drippy ScreenShare Tool | Scanned With Success");
